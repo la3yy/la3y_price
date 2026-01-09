@@ -34,7 +34,7 @@ body {
     align-items: center;
     text-align: center;
     padding: 40px 20px;
-    background-image: url('../images/IMG_2196.PNG');
+    background-image: url('./IMG_2196.PNG');
     background-size: cover;
     background-position: center 80%;
     background-repeat: no-repeat;
@@ -201,4 +201,5 @@ h1 {
     .section-title {
         font-size: 1.4em;
     }
+
 }
